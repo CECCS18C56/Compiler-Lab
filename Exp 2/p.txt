@@ -3,4 +3,4 @@ int main()
 	int a, b, c;
 	c= a + b;
 } 
-© 2021 GitHub, In
+
